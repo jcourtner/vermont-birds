@@ -1,20 +1,22 @@
 import { Module } from '@nestjs/common';
+import { ConfigModule } from '@nestjs/config';
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { AppController } from './app.controller';
 import { AppService } from './app.service';
 import { join } from 'path';
-// import { databaseProviders } from './databases/database.providers';
-// import { DatabaseModule } from './databases/database.module';
-// ok this worked, but why can't I used the database provider?? try to figure this out
+
 @Module({
   imports: [
+    ConfigModule.forRoot({
+      isGlobal: true, // Makes environment variables globally available
+    }),
     TypeOrmModule.forRoot({
       type: 'postgres', // or your database type
       host: 'localhost',
-      port: 5432,
-      username: 'postgres',
+      port: parseInt(process.env.DB_PORT, 10) || 5432,
+      username: process.env.DB_USERNAME,
       password: '',
-      database: 'vermont_birds',
+      database: process.env.DB_NAME,
       entities: [join(__dirname, '**', '*.entity.{ts,js}')],
       synchronize: true, // use with caution; set to false for production
     }),
