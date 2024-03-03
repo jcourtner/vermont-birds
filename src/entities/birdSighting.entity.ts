@@ -19,6 +19,9 @@ export class BirdSighting {
   @Column({ nullable: false })
   howMany: number;
 
+  @Column({ unique: true, type: 'varchar', length: 300, nullable: false })
+  fieldNotes: string;
+
   @ManyToOne(() => User, (user) => user.birdSightings)
   user: User;
 
