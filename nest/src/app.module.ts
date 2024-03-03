@@ -16,7 +16,7 @@ import { userProviders } from './user/user.provider';
       isGlobal: true, // Makes environment variables globally available
     }),
     TypeOrmModule.forRoot({
-      type: 'postgres', // or your database type
+      type: 'postgres',
       host: 'localhost',
       port: parseInt(process.env.DB_PORT, 10) || 5432,
       username: process.env.DB_USERNAME,

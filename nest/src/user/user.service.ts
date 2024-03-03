@@ -19,11 +19,14 @@ export class UserService {
     @Inject('USER_REPOSITORY')
     private userRepository: Repository<User>,
   ) {}
-  getUser(): string {
-    return 'hello user';
-  }
+  // async getUser(): string {
+  //   return 'hello user';
+  // }
   async findAll(): Promise<User[]> {
     return this.userRepository.find();
+  }
+  async findByEmail(email: string): Promise<User | undefined> {
+    return this.userRepository.findOneBy({ email });
   }
 }
 

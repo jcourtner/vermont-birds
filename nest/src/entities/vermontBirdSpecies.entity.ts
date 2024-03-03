@@ -7,16 +7,16 @@ export class BirdSpeciesVT {
   id: number;
 
   @Column({ unique: true, type: 'varchar', length: 150, nullable: false })
-  speciesCode: string;
-
-  @Column({ unique: true, type: 'varchar', length: 150, nullable: false })
   sciName: string;
 
   @Column({ unique: true, type: 'varchar', length: 150, nullable: false })
-  commName: string;
+  comName: string;
+
+  @Column({ unique: true, type: 'varchar', length: 150, nullable: false })
+  speciesCode: string;
 
   @Column({ nullable: false })
-  familyName: string;
+  familyComName: string;
 
   @OneToMany(() => BirdSighting, (birdSighting) => birdSighting.species)
   birdSightings: BirdSighting[];

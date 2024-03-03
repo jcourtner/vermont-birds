@@ -1,0 +1,438 @@
+sciName,comName,speciesCode,familyComName
+Dromaius novaehollandiae,Emu,emu1,Cassowaries and Emu
+Dendrocygna autumnalis,Black-bellied Whistling-Duck,bbwduc,"Ducks, Geese, and Waterfowl"
+Dendrocygna bicolor,Fulvous Whistling-Duck,fuwduc,"Ducks, Geese, and Waterfowl"
+Anser indicus,Bar-headed Goose,bahgoo,"Ducks, Geese, and Waterfowl"
+Anser caerulescens,Snow Goose,snogoo,"Ducks, Geese, and Waterfowl"
+Anser rossii,Ross's Goose,rosgoo,"Ducks, Geese, and Waterfowl"
+Anser caerulescens x rossii,Snow x Ross's Goose (hybrid),sxrgoo1,"Ducks, Geese, and Waterfowl"
+Anser anser,Graylag Goose,gragoo,"Ducks, Geese, and Waterfowl"
+Anser cygnoides,Swan Goose,swagoo1,"Ducks, Geese, and Waterfowl"
+Anser anser x cygnoides,Graylag x Swan Goose (hybrid),x00776,"Ducks, Geese, and Waterfowl"
+Anser albifrons,Greater White-fronted Goose,gwfgoo,"Ducks, Geese, and Waterfowl"
+Anser brachyrhynchus,Pink-footed Goose,pifgoo,"Ducks, Geese, and Waterfowl"
+Branta bernicla,Brant,brant,"Ducks, Geese, and Waterfowl"
+Branta leucopsis,Barnacle Goose,bargoo,"Ducks, Geese, and Waterfowl"
+Branta hutchinsii,Cackling Goose,cacgoo1,"Ducks, Geese, and Waterfowl"
+Branta canadensis,Canada Goose,cangoo,"Ducks, Geese, and Waterfowl"
+Anser albifrons x Branta canadensis,Greater White-fronted x Canada Goose (hybrid),x00415,"Ducks, Geese, and Waterfowl"
+Anser anser x Branta canadensis,Graylag x Canada Goose (hybrid),x00758,"Ducks, Geese, and Waterfowl"
+Anser sp. (Domestic type) x Branta canadensis,Domestic goose sp. x Canada Goose (hybrid),x00759,"Ducks, Geese, and Waterfowl"
+Anser caerulescens x Branta canadensis,Snow x Canada Goose (hybrid),x00197,"Ducks, Geese, and Waterfowl"
+Cygnus olor,Mute Swan,mutswa,"Ducks, Geese, and Waterfowl"
+Cygnus buccinator,Trumpeter Swan,truswa,"Ducks, Geese, and Waterfowl"
+Cygnus columbianus,Tundra Swan,tunswa,"Ducks, Geese, and Waterfowl"
+Tadorna ferruginea,Ruddy Shelduck,rudshe,"Ducks, Geese, and Waterfowl"
+Cairina moschata,Muscovy Duck,musduc,"Ducks, Geese, and Waterfowl"
+Aix sponsa,Wood Duck,wooduc,"Ducks, Geese, and Waterfowl"
+Aix galericulata,Mandarin Duck,manduc,"Ducks, Geese, and Waterfowl"
+Spatula querquedula,Garganey,gargan,"Ducks, Geese, and Waterfowl"
+Spatula discors,Blue-winged Teal,buwtea,"Ducks, Geese, and Waterfowl"
+Spatula clypeata,Northern Shoveler,norsho,"Ducks, Geese, and Waterfowl"
+Mareca strepera,Gadwall,gadwal,"Ducks, Geese, and Waterfowl"
+Mareca penelope,Eurasian Wigeon,eurwig,"Ducks, Geese, and Waterfowl"
+Mareca americana,American Wigeon,amewig,"Ducks, Geese, and Waterfowl"
+Mareca strepera x americana,Gadwall x American Wigeon (hybrid),x00724,"Ducks, Geese, and Waterfowl"
+Mareca penelope x americana,Eurasian x American Wigeon (hybrid),x00421,"Ducks, Geese, and Waterfowl"
+Anas platyrhynchos,Mallard,mallar3,"Ducks, Geese, and Waterfowl"
+Mareca strepera x Anas platyrhynchos,Gadwall x Mallard (hybrid),x00420,"Ducks, Geese, and Waterfowl"
+Mareca americana x Anas platyrhynchos,American Wigeon x Mallard (hybrid),x00611,"Ducks, Geese, and Waterfowl"
+Anas rubripes,American Black Duck,ambduc,"Ducks, Geese, and Waterfowl"
+Anas platyrhynchos x rubripes,Mallard x American Black Duck (hybrid),x00004,"Ducks, Geese, and Waterfowl"
+Anas acuta,Northern Pintail,norpin,"Ducks, Geese, and Waterfowl"
+Anas platyrhynchos x acuta,Mallard x Northern Pintail (hybrid),x00628,"Ducks, Geese, and Waterfowl"
+Anas crecca,Green-winged Teal,gnwtea,"Ducks, Geese, and Waterfowl"
+Aythya valisineria,Canvasback,canvas,"Ducks, Geese, and Waterfowl"
+Aythya americana,Redhead,redhea,"Ducks, Geese, and Waterfowl"
+Aythya ferina,Common Pochard,compoc,"Ducks, Geese, and Waterfowl"
+Aythya collaris,Ring-necked Duck,rinduc,"Ducks, Geese, and Waterfowl"
+Aythya americana x collaris,Redhead x Ring-necked Duck (hybrid),x00679,"Ducks, Geese, and Waterfowl"
+Aythya fuligula,Tufted Duck,tufduc,"Ducks, Geese, and Waterfowl"
+Aythya marila,Greater Scaup,gresca,"Ducks, Geese, and Waterfowl"
+Aythya affinis,Lesser Scaup,lessca,"Ducks, Geese, and Waterfowl"
+Aythya collaris x marila/affinis,Ring-necked Duck x scaup sp. (hybrid),x00682,"Ducks, Geese, and Waterfowl"
+Aythya fuligula x marila/affinis,Tufted Duck x scaup sp. (hybrid),tdxsca1,"Ducks, Geese, and Waterfowl"
+Somateria spectabilis,King Eider,kineid,"Ducks, Geese, and Waterfowl"
+Somateria mollissima,Common Eider,comeid,"Ducks, Geese, and Waterfowl"
+Histrionicus histrionicus,Harlequin Duck,harduc,"Ducks, Geese, and Waterfowl"
+Melanitta perspicillata,Surf Scoter,sursco,"Ducks, Geese, and Waterfowl"
+Melanitta deglandi,White-winged Scoter,whwsco2,"Ducks, Geese, and Waterfowl"
+Melanitta americana,Black Scoter,blksco2,"Ducks, Geese, and Waterfowl"
+Clangula hyemalis,Long-tailed Duck,lotduc,"Ducks, Geese, and Waterfowl"
+Bucephala albeola,Bufflehead,buffle,"Ducks, Geese, and Waterfowl"
+Bucephala clangula,Common Goldeneye,comgol,"Ducks, Geese, and Waterfowl"
+Bucephala islandica,Barrow's Goldeneye,bargol,"Ducks, Geese, and Waterfowl"
+Bucephala clangula x islandica,Common x Barrow's Goldeneye (hybrid),cxbgol1,"Ducks, Geese, and Waterfowl"
+Lophodytes cucullatus,Hooded Merganser,hoomer,"Ducks, Geese, and Waterfowl"
+Bucephala clangula x Lophodytes cucullatus,Common Goldeneye x Hooded Merganser (hybrid),x00425,"Ducks, Geese, and Waterfowl"
+Mergus merganser,Common Merganser,commer,"Ducks, Geese, and Waterfowl"
+Mergus serrator,Red-breasted Merganser,rebmer,"Ducks, Geese, and Waterfowl"
+Oxyura jamaicensis,Ruddy Duck,rudduc,"Ducks, Geese, and Waterfowl"
+Numida meleagris,Helmeted Guineafowl,helgui,Guineafowl
+Colinus virginianus,Northern Bobwhite,norbob,New World Quail
+Meleagris gallopavo,Wild Turkey,wiltur,"Pheasants, Grouse, and Allies"
+Bonasa umbellus,Ruffed Grouse,rufgro,"Pheasants, Grouse, and Allies"
+Lagopus lagopus,Willow Ptarmigan,wilpta,"Pheasants, Grouse, and Allies"
+Canachites canadensis,Spruce Grouse,sprgro,"Pheasants, Grouse, and Allies"
+Perdix perdix,Gray Partridge,grypar,"Pheasants, Grouse, and Allies"
+Chrysolophus pictus,Golden Pheasant,golphe,"Pheasants, Grouse, and Allies"
+Phasianus colchicus,Ring-necked Pheasant,rinphe1,"Pheasants, Grouse, and Allies"
+Gallus gallus,Red Junglefowl,redjun,"Pheasants, Grouse, and Allies"
+Alectoris chukar,Chukar,chukar,"Pheasants, Grouse, and Allies"
+Podilymbus podiceps,Pied-billed Grebe,pibgre,Grebes
+Podiceps auritus,Horned Grebe,horgre,Grebes
+Podiceps grisegena,Red-necked Grebe,rengre,Grebes
+Podiceps nigricollis,Eared Grebe,eargre,Grebes
+Aechmophorus occidentalis,Western Grebe,wesgre,Grebes
+Columba livia,Rock Pigeon,rocpig,Pigeons and Doves
+Patagioenas fasciata,Band-tailed Pigeon,batpig1,Pigeons and Doves
+Streptopelia turtur,European Turtle-Dove,eutdov,Pigeons and Doves
+Streptopelia decaocto,Eurasian Collared-Dove,eucdov,Pigeons and Doves
+Streptopelia roseogrisea,African Collared-Dove,afcdov1,Pigeons and Doves
+Zenaida asiatica,White-winged Dove,whwdov,Pigeons and Doves
+Zenaida macroura,Mourning Dove,moudov,Pigeons and Doves
+Coccyzus americanus,Yellow-billed Cuckoo,yebcuc,Cuckoos
+Coccyzus erythropthalmus,Black-billed Cuckoo,bkbcuc,Cuckoos
+Chordeiles minor,Common Nighthawk,comnig,Nightjars and Allies
+Antrostomus vociferus,Eastern Whip-poor-will,easwpw1,Nightjars and Allies
+Chaetura pelagica,Chimney Swift,chiswi,Swifts
+Colibri thalassinus,Mexican Violetear,grnvie1,Hummingbirds
+Archilochus colubris,Ruby-throated Hummingbird,rthhum,Hummingbirds
+Selasphorus rufus,Rufous Hummingbird,rufhum,Hummingbirds
+Rallus elegans,King Rail,kinrai4,"Rails, Gallinules, and Coots"
+Rallus limicola,Virginia Rail,virrai,"Rails, Gallinules, and Coots"
+Porzana carolina,Sora,sora,"Rails, Gallinules, and Coots"
+Gallinula galeata,Common Gallinule,comgal1,"Rails, Gallinules, and Coots"
+Fulica americana,American Coot,y00475,"Rails, Gallinules, and Coots"
+Coturnicops noveboracensis,Yellow Rail,yelrai,"Rails, Gallinules, and Coots"
+Antigone canadensis,Sandhill Crane,sancra,Cranes
+Grus grus,Common Crane,comcra,Cranes
+Grus americana,Whooping Crane,whocra,Cranes
+Recurvirostra americana,American Avocet,ameavo,Stilts and Avocets
+Pluvialis squatarola,Black-bellied Plover,bkbplo,Plovers and Lapwings
+Pluvialis dominica,American Golden-Plover,amgplo,Plovers and Lapwings
+Pluvialis fulva,Pacific Golden-Plover,pagplo,Plovers and Lapwings
+Charadrius vociferus,Killdeer,killde,Plovers and Lapwings
+Charadrius hiaticula,Common Ringed Plover,corplo,Plovers and Lapwings
+Charadrius semipalmatus,Semipalmated Plover,semplo,Plovers and Lapwings
+Charadrius melodus,Piping Plover,pipplo,Plovers and Lapwings
+Bartramia longicauda,Upland Sandpiper,uplsan,Sandpipers and Allies
+Numenius phaeopus,Whimbrel,whimbr,Sandpipers and Allies
+Limosa limosa,Black-tailed Godwit,bktgod,Sandpipers and Allies
+Limosa haemastica,Hudsonian Godwit,hudgod,Sandpipers and Allies
+Limosa fedoa,Marbled Godwit,margod,Sandpipers and Allies
+Limnodromus griseus,Short-billed Dowitcher,shbdow,Sandpipers and Allies
+Limnodromus scolopaceus,Long-billed Dowitcher,lobdow,Sandpipers and Allies
+Scolopax minor,American Woodcock,amewoo,Sandpipers and Allies
+Gallinago delicata,Wilson's Snipe,wilsni1,Sandpipers and Allies
+Phalaropus tricolor,Wilson's Phalarope,wilpha,Sandpipers and Allies
+Phalaropus fulicarius,Red Phalarope,redpha1,Sandpipers and Allies
+Phalaropus lobatus,Red-necked Phalarope,renpha,Sandpipers and Allies
+Actitis macularius,Spotted Sandpiper,sposan,Sandpipers and Allies
+Tringa solitaria,Solitary Sandpiper,solsan,Sandpipers and Allies
+Tringa flavipes,Lesser Yellowlegs,lesyel,Sandpipers and Allies
+Tringa semipalmata,Willet,willet1,Sandpipers and Allies
+Tringa melanoleuca,Greater Yellowlegs,greyel,Sandpipers and Allies
+Arenaria interpres,Ruddy Turnstone,rudtur,Sandpipers and Allies
+Calidris canutus,Red Knot,redkno,Sandpipers and Allies
+Calidris pugnax,Ruff,ruff,Sandpipers and Allies
+Calidris ferruginea,Curlew Sandpiper,cursan,Sandpipers and Allies
+Calidris himantopus,Stilt Sandpiper,stisan,Sandpipers and Allies
+Calidris subruficollis,Buff-breasted Sandpiper,bubsan,Sandpipers and Allies
+Calidris alba,Sanderling,sander,Sandpipers and Allies
+Calidris alpina,Dunlin,dunlin,Sandpipers and Allies
+Calidris maritima,Purple Sandpiper,pursan,Sandpipers and Allies
+Calidris bairdii,Baird's Sandpiper,baisan,Sandpipers and Allies
+Calidris fuscicollis,White-rumped Sandpiper,whrsan,Sandpipers and Allies
+Calidris minutilla,Least Sandpiper,leasan,Sandpipers and Allies
+Calidris melanotos,Pectoral Sandpiper,pecsan,Sandpipers and Allies
+Calidris mauri,Western Sandpiper,wessan,Sandpipers and Allies
+Calidris pusilla,Semipalmated Sandpiper,semsan,Sandpipers and Allies
+Stercorarius longicaudus,Long-tailed Jaeger,lotjae,Skuas and Jaegers
+Stercorarius parasiticus,Parasitic Jaeger,parjae,Skuas and Jaegers
+Stercorarius pomarinus,Pomarine Jaeger,pomjae,Skuas and Jaegers
+Fratercula arctica,Atlantic Puffin,atlpuf,"Auks, Murres, and Puffins"
+Cepphus grylle,Black Guillemot,blkgui,"Auks, Murres, and Puffins"
+Alca torda,Razorbill,razorb,"Auks, Murres, and Puffins"
+Alle alle,Dovekie,doveki,"Auks, Murres, and Puffins"
+Uria lomvia,Thick-billed Murre,thbmur,"Auks, Murres, and Puffins"
+Uria aalge,Common Murre,commur,"Auks, Murres, and Puffins"
+Synthliboramphus antiquus,Ancient Murrelet,ancmur,"Auks, Murres, and Puffins"
+Hydrocoloeus minutus,Little Gull,litgul,"Gulls, Terns, and Skimmers"
+Rissa tridactyla,Black-legged Kittiwake,bklkit,"Gulls, Terns, and Skimmers"
+Pagophila eburnea,Ivory Gull,ivogul,"Gulls, Terns, and Skimmers"
+Xema sabini,Sabine's Gull,sabgul,"Gulls, Terns, and Skimmers"
+Chroicocephalus philadelphia,Bonaparte's Gull,bongul,"Gulls, Terns, and Skimmers"
+Chroicocephalus ridibundus,Black-headed Gull,bkhgul,"Gulls, Terns, and Skimmers"
+Leucophaeus atricilla,Laughing Gull,laugul,"Gulls, Terns, and Skimmers"
+Leucophaeus pipixcan,Franklin's Gull,fragul,"Gulls, Terns, and Skimmers"
+Larus crassirostris,Black-tailed Gull,bktgul,"Gulls, Terns, and Skimmers"
+Larus delawarensis,Ring-billed Gull,ribgul,"Gulls, Terns, and Skimmers"
+Larus argentatus,Herring Gull,hergul,"Gulls, Terns, and Skimmers"
+Larus marinus,Great Black-backed Gull,gbbgul,"Gulls, Terns, and Skimmers"
+Larus argentatus x marinus,Herring x Great Black-backed Gull (hybrid),x00047,"Gulls, Terns, and Skimmers"
+Larus hyperboreus,Glaucous Gull,glagul,"Gulls, Terns, and Skimmers"
+Larus fuscus,Lesser Black-backed Gull,lbbgul,"Gulls, Terns, and Skimmers"
+Larus schistisagus,Slaty-backed Gull,slbgul,"Gulls, Terns, and Skimmers"
+Larus glaucoides,Iceland Gull,y00478,"Gulls, Terns, and Skimmers"
+Onychoprion fuscatus,Sooty Tern,sooter1,"Gulls, Terns, and Skimmers"
+Hydroprogne caspia,Caspian Tern,caster1,"Gulls, Terns, and Skimmers"
+Chlidonias niger,Black Tern,blkter,"Gulls, Terns, and Skimmers"
+Chlidonias leucopterus,White-winged Tern,whwter,"Gulls, Terns, and Skimmers"
+Sterna forsteri,Forster's Tern,forter,"Gulls, Terns, and Skimmers"
+Sterna paradisaea,Arctic Tern,arcter,"Gulls, Terns, and Skimmers"
+Sterna hirundo,Common Tern,comter,"Gulls, Terns, and Skimmers"
+Phaethon lepturus,White-tailed Tropicbird,whttro,Tropicbirds
+Gavia stellata,Red-throated Loon,retloo,Loons
+Gavia pacifica,Pacific Loon,pacloo,Loons
+Gavia immer,Common Loon,comloo,Loons
+Oceanites oceanicus,Wilson's Storm-Petrel,wispet,Southern Storm-Petrels
+Hydrobates leucorhous,Leach's Storm-Petrel,lcspet,Northern Storm-Petrels
+Hydrobates castro,Band-rumped Storm-Petrel,barpet,Northern Storm-Petrels
+Fulmarus glacialis,Northern Fulmar,norful,Shearwaters and Petrels
+Calonectris diomedea,Cory's Shearwater,corshe,Shearwaters and Petrels
+Ardenna gravis,Great Shearwater,greshe,Shearwaters and Petrels
+Morus bassanus,Northern Gannet,norgan,Boobies and Gannets
+Sula leucogaster,Brown Booby,brnboo,Boobies and Gannets
+Anhinga anhinga,Anhinga,anhing,Anhingas
+Phalacrocorax carbo,Great Cormorant,grecor,Cormorants and Shags
+Nannopterum auritum,Double-crested Cormorant,doccor,Cormorants and Shags
+Pelecanus erythrorhynchos,American White Pelican,amwpel,Pelicans
+Pelecanus occidentalis,Brown Pelican,brnpel,Pelicans
+Botaurus lentiginosus,American Bittern,amebit,"Herons, Egrets, and Bitterns"
+Ixobrychus exilis,Least Bittern,leabit,"Herons, Egrets, and Bitterns"
+Nyctanassa violacea,Yellow-crowned Night Heron,ycnher,"Herons, Egrets, and Bitterns"
+Nycticorax nycticorax,Black-crowned Night Heron,bcnher,"Herons, Egrets, and Bitterns"
+Egretta caerulea,Little Blue Heron,libher,"Herons, Egrets, and Bitterns"
+Egretta tricolor,Tricolored Heron,triher,"Herons, Egrets, and Bitterns"
+Egretta thula,Snowy Egret,snoegr,"Herons, Egrets, and Bitterns"
+Egretta garzetta,Little Egret,litegr,"Herons, Egrets, and Bitterns"
+Butorides virescens,Green Heron,grnher,"Herons, Egrets, and Bitterns"
+Bubulcus ibis,Western Cattle Egret,categr1,"Herons, Egrets, and Bitterns"
+Ardea alba,Great Egret,greegr,"Herons, Egrets, and Bitterns"
+Ardea herodias,Great Blue Heron,grbher3,"Herons, Egrets, and Bitterns"
+Eudocimus albus,White Ibis,whiibi,Ibises and Spoonbills
+Plegadis falcinellus,Glossy Ibis,gloibi,Ibises and Spoonbills
+Coragyps atratus,Black Vulture,blkvul,New World Vultures
+Cathartes aura,Turkey Vulture,turvul,New World Vultures
+Pandion haliaetus,Osprey,osprey,Osprey
+Elanoides forficatus,Swallow-tailed Kite,swtkit,"Hawks, Eagles, and Kites"
+Aquila chrysaetos,Golden Eagle,goleag,"Hawks, Eagles, and Kites"
+Circus hudsonius,Northern Harrier,norhar2,"Hawks, Eagles, and Kites"
+Accipiter striatus,Sharp-shinned Hawk,shshaw,"Hawks, Eagles, and Kites"
+Accipiter cooperii,Cooper's Hawk,coohaw,"Hawks, Eagles, and Kites"
+Accipiter atricapillus,American Goshawk,norgos,"Hawks, Eagles, and Kites"
+Haliaeetus leucocephalus,Bald Eagle,baleag,"Hawks, Eagles, and Kites"
+Buteo lineatus,Red-shouldered Hawk,reshaw,"Hawks, Eagles, and Kites"
+Buteo platypterus,Broad-winged Hawk,brwhaw,"Hawks, Eagles, and Kites"
+Buteo swainsoni,Swainson's Hawk,swahaw,"Hawks, Eagles, and Kites"
+Buteo jamaicensis,Red-tailed Hawk,rethaw,"Hawks, Eagles, and Kites"
+Buteo lineatus x jamaicensis,Red-shouldered x Red-tailed Hawk (hybrid),x00686,"Hawks, Eagles, and Kites"
+Buteo lagopus,Rough-legged Hawk,rolhaw,"Hawks, Eagles, and Kites"
+Tyto alba,Barn Owl,brnowl,Barn-Owls
+Megascops asio,Eastern Screech-Owl,easowl1,Owls
+Bubo scandiacus,Snowy Owl,snoowl1,Owls
+Bubo virginianus,Great Horned Owl,grhowl,Owls
+Surnia ulula,Northern Hawk Owl,nohowl,Owls
+Strix varia,Barred Owl,brdowl,Owls
+Strix nebulosa,Great Gray Owl,grgowl,Owls
+Asio otus,Long-eared Owl,loeowl,Owls
+Asio flammeus,Short-eared Owl,sheowl,Owls
+Aegolius funereus,Boreal Owl,borowl,Owls
+Aegolius acadicus,Northern Saw-whet Owl,nswowl,Owls
+Megaceryle alcyon,Belted Kingfisher,belkin1,Kingfishers
+Sphyrapicus varius,Yellow-bellied Sapsucker,yebsap,Woodpeckers
+Sphyrapicus varius x nuchalis,Yellow-bellied x Red-naped Sapsucker (hybrid),x00634,Woodpeckers
+Melanerpes lewis,Lewis's Woodpecker,lewwoo,Woodpeckers
+Melanerpes erythrocephalus,Red-headed Woodpecker,rehwoo,Woodpeckers
+Melanerpes carolinus,Red-bellied Woodpecker,rebwoo,Woodpeckers
+Picoides dorsalis,American Three-toed Woodpecker,attwoo1,Woodpeckers
+Picoides arcticus,Black-backed Woodpecker,bkbwoo,Woodpeckers
+Dryobates pubescens,Downy Woodpecker,dowwoo,Woodpeckers
+Dryobates villosus,Hairy Woodpecker,haiwoo,Woodpeckers
+Dryocopus pileatus,Pileated Woodpecker,pilwoo,Woodpeckers
+Colaptes auratus,Northern Flicker,norfli,Woodpeckers
+Caracara plancus,Crested Caracara,y00678,Falcons and Caracaras
+Falco sparverius,American Kestrel,amekes,Falcons and Caracaras
+Falco columbarius,Merlin,merlin,Falcons and Caracaras
+Falco rusticolus,Gyrfalcon,gyrfal,Falcons and Caracaras
+Falco peregrinus,Peregrine Falcon,perfal,Falcons and Caracaras
+Falco mexicanus,Prairie Falcon,prafal,Falcons and Caracaras
+Melopsittacus undulatus,Budgerigar,budger,Old World Parrots
+Contopus cooperi,Olive-sided Flycatcher,olsfly,Tyrant Flycatchers
+Contopus virens,Eastern Wood-Pewee,eawpew,Tyrant Flycatchers
+Empidonax flaviventris,Yellow-bellied Flycatcher,yebfly,Tyrant Flycatchers
+Empidonax virescens,Acadian Flycatcher,acafly,Tyrant Flycatchers
+Empidonax alnorum,Alder Flycatcher,aldfly,Tyrant Flycatchers
+Empidonax traillii,Willow Flycatcher,wilfly,Tyrant Flycatchers
+Empidonax minimus,Least Flycatcher,leafly,Tyrant Flycatchers
+Sayornis phoebe,Eastern Phoebe,easpho,Tyrant Flycatchers
+Sayornis saya,Say's Phoebe,saypho,Tyrant Flycatchers
+Myiarchus cinerascens,Ash-throated Flycatcher,astfly,Tyrant Flycatchers
+Myiarchus crinitus,Great Crested Flycatcher,grcfly,Tyrant Flycatchers
+Tyrannus verticalis,Western Kingbird,weskin,Tyrant Flycatchers
+Tyrannus tyrannus,Eastern Kingbird,easkin,Tyrant Flycatchers
+Tyrannus forficatus,Scissor-tailed Flycatcher,sctfly,Tyrant Flycatchers
+Tyrannus savana,Fork-tailed Flycatcher,fotfly,Tyrant Flycatchers
+Vireo griseus,White-eyed Vireo,whevir,"Vireos, Shrike-Babblers, and Erpornis"
+Vireo bellii,Bell's Vireo,belvir,"Vireos, Shrike-Babblers, and Erpornis"
+Vireo flavifrons,Yellow-throated Vireo,yetvir,"Vireos, Shrike-Babblers, and Erpornis"
+Vireo cassinii,Cassin's Vireo,casvir,"Vireos, Shrike-Babblers, and Erpornis"
+Vireo solitarius,Blue-headed Vireo,buhvir,"Vireos, Shrike-Babblers, and Erpornis"
+Vireo flavifrons x solitarius,Yellow-throated x Blue-headed Vireo (hybrid),x00411,"Vireos, Shrike-Babblers, and Erpornis"
+Vireo philadelphicus,Philadelphia Vireo,phivir,"Vireos, Shrike-Babblers, and Erpornis"
+Vireo gilvus,Warbling Vireo,warvir,"Vireos, Shrike-Babblers, and Erpornis"
+Vireo olivaceus,Red-eyed Vireo,reevir1,"Vireos, Shrike-Babblers, and Erpornis"
+Lanius ludovicianus,Loggerhead Shrike,logshr,Shrikes
+Lanius borealis,Northern Shrike,norshr4,Shrikes
+Perisoreus canadensis,Canada Jay,gryjay,"Crows, Jays, and Magpies"
+Cyanocitta cristata,Blue Jay,blujay,"Crows, Jays, and Magpies"
+Corvus brachyrhynchos,American Crow,amecro,"Crows, Jays, and Magpies"
+Corvus ossifragus,Fish Crow,fiscro,"Crows, Jays, and Magpies"
+Corvus corax,Common Raven,comrav,"Crows, Jays, and Magpies"
+Poecile atricapillus,Black-capped Chickadee,bkcchi,"Tits, Chickadees, and Titmice"
+Poecile hudsonicus,Boreal Chickadee,borchi2,"Tits, Chickadees, and Titmice"
+Baeolophus bicolor,Tufted Titmouse,tuftit,"Tits, Chickadees, and Titmice"
+Eremophila alpestris,Horned Lark,horlar,Larks
+Riparia riparia,Bank Swallow,banswa,Swallows
+Tachycineta bicolor,Tree Swallow,treswa,Swallows
+Progne subis,Purple Martin,purmar,Swallows
+Stelgidopteryx serripennis,Northern Rough-winged Swallow,nrwswa,Swallows
+Hirundo rustica,Barn Swallow,barswa,Swallows
+Petrochelidon pyrrhonota,Cliff Swallow,cliswa,Swallows
+Petrochelidon fulva,Cave Swallow,cavswa,Swallows
+Corthylio calendula,Ruby-crowned Kinglet,ruckin,Kinglets
+Regulus satrapa,Golden-crowned Kinglet,gockin,Kinglets
+Sitta carolinensis,White-breasted Nuthatch,whbnut,Nuthatches
+Sitta canadensis,Red-breasted Nuthatch,rebnut,Nuthatches
+Certhia americana,Brown Creeper,brncre,Treecreepers
+Polioptila caerulea,Blue-gray Gnatcatcher,buggna,Gnatcatchers
+Troglodytes aedon,House Wren,houwre,Wrens
+Troglodytes hiemalis,Winter Wren,winwre3,Wrens
+Cistothorus stellaris,Sedge Wren,sedwre1,Wrens
+Cistothorus palustris,Marsh Wren,marwre,Wrens
+Thryothorus ludovicianus,Carolina Wren,carwre,Wrens
+Thryomanes bewickii,Bewick's Wren,bewwre,Wrens
+Sturnus vulgaris,European Starling,eursta,Starlings
+Dumetella carolinensis,Gray Catbird,grycat,Mockingbirds and Thrashers
+Toxostoma rufum,Brown Thrasher,brnthr,Mockingbirds and Thrashers
+Mimus polyglottos,Northern Mockingbird,normoc,Mockingbirds and Thrashers
+Sialia sialis,Eastern Bluebird,easblu,Thrushes and Allies
+Sialia currucoides,Mountain Bluebird,moublu,Thrushes and Allies
+Myadestes townsendi,Townsend's Solitaire,towsol,Thrushes and Allies
+Ixoreus naevius,Varied Thrush,varthr,Thrushes and Allies
+Catharus fuscescens,Veery,veery,Thrushes and Allies
+Catharus minimus,Gray-cheeked Thrush,gycthr,Thrushes and Allies
+Catharus bicknelli,Bicknell's Thrush,bicthr,Thrushes and Allies
+Catharus fuscescens x bicknelli,Veery x Bicknell's Thrush (hybrid),x00865,Thrushes and Allies
+Catharus ustulatus,Swainson's Thrush,swathr,Thrushes and Allies
+Catharus guttatus,Hermit Thrush,herthr,Thrushes and Allies
+Hylocichla mustelina,Wood Thrush,woothr,Thrushes and Allies
+Turdus migratorius,American Robin,amerob,Thrushes and Allies
+Oenanthe oenanthe,Northern Wheatear,norwhe,Old World Flycatchers
+Bombycilla garrulus,Bohemian Waxwing,bohwax,Waxwings
+Bombycilla cedrorum,Cedar Waxwing,cedwax,Waxwings
+Passer domesticus,House Sparrow,houspa,Old World Sparrows
+Anthus rubescens,American Pipit,amepip,Wagtails and Pipits
+Coccothraustes vespertinus,Evening Grosbeak,evegro,"Finches, Euphonias, and Allies"
+Pinicola enucleator,Pine Grosbeak,pingro,"Finches, Euphonias, and Allies"
+Haemorhous mexicanus,House Finch,houfin,"Finches, Euphonias, and Allies"
+Haemorhous purpureus,Purple Finch,purfin,"Finches, Euphonias, and Allies"
+Acanthis flammea,Common Redpoll,comred,"Finches, Euphonias, and Allies"
+Acanthis hornemanni,Hoary Redpoll,hoared,"Finches, Euphonias, and Allies"
+Loxia curvirostra,Red Crossbill,redcro,"Finches, Euphonias, and Allies"
+Loxia leucoptera,White-winged Crossbill,whwcro,"Finches, Euphonias, and Allies"
+Carduelis carduelis,European Goldfinch,eurgol,"Finches, Euphonias, and Allies"
+Spinus pinus,Pine Siskin,pinsis,"Finches, Euphonias, and Allies"
+Spinus tristis,American Goldfinch,amegfi,"Finches, Euphonias, and Allies"
+Calcarius lapponicus,Lapland Longspur,laplon,Longspurs and Snow Buntings
+Calcarius pictus,Smith's Longspur,smilon,Longspurs and Snow Buntings
+Plectrophenax nivalis,Snow Bunting,snobun,Longspurs and Snow Buntings
+Ammodramus savannarum,Grasshopper Sparrow,graspa,New World Sparrows
+Spizella passerina,Chipping Sparrow,chispa,New World Sparrows
+Spizella pallida,Clay-colored Sparrow,clcspa,New World Sparrows
+Spizella pusilla,Field Sparrow,fiespa,New World Sparrows
+Spizella pallida x pusilla,Clay-colored x Field Sparrow (hybrid),x00200,New World Sparrows
+Chondestes grammacus,Lark Sparrow,larspa,New World Sparrows
+Calamospiza melanocorys,Lark Bunting,larbun,New World Sparrows
+Spizelloides arborea,American Tree Sparrow,amtspa,New World Sparrows
+Passerella iliaca,Fox Sparrow,foxspa,New World Sparrows
+Junco hyemalis,Dark-eyed Junco,daejun,New World Sparrows
+Zonotrichia leucophrys,White-crowned Sparrow,whcspa,New World Sparrows
+Zonotrichia atricapilla,Golden-crowned Sparrow,gocspa,New World Sparrows
+Zonotrichia querula,Harris's Sparrow,harspa,New World Sparrows
+Zonotrichia albicollis,White-throated Sparrow,whtspa,New World Sparrows
+Pooecetes gramineus,Vesper Sparrow,vesspa,New World Sparrows
+Ammospiza leconteii,LeConte's Sparrow,lecspa,New World Sparrows
+Ammospiza nelsoni,Nelson's Sparrow,nstspa,New World Sparrows
+Passerculus sandwichensis,Savannah Sparrow,savspa,New World Sparrows
+Centronyx henslowii,Henslow's Sparrow,henspa,New World Sparrows
+Melospiza melodia,Song Sparrow,sonspa,New World Sparrows
+Melospiza lincolnii,Lincoln's Sparrow,linspa,New World Sparrows
+Melospiza georgiana,Swamp Sparrow,swaspa,New World Sparrows
+Pipilo chlorurus,Green-tailed Towhee,gnttow,New World Sparrows
+Pipilo maculatus,Spotted Towhee,spotow,New World Sparrows
+Pipilo erythrophthalmus,Eastern Towhee,eastow,New World Sparrows
+Icteria virens,Yellow-breasted Chat,yebcha,Yellow-breasted Chat
+Xanthocephalus xanthocephalus,Yellow-headed Blackbird,yehbla,Troupials and Allies
+Dolichonyx oryzivorus,Bobolink,boboli,Troupials and Allies
+Sturnella neglecta,Western Meadowlark,wesmea,Troupials and Allies
+Sturnella magna,Eastern Meadowlark,easmea,Troupials and Allies
+Icterus spurius,Orchard Oriole,orcori,Troupials and Allies
+Icterus bullockii,Bullock's Oriole,bulori,Troupials and Allies
+Icterus galbula,Baltimore Oriole,balori,Troupials and Allies
+Agelaius phoeniceus,Red-winged Blackbird,rewbla,Troupials and Allies
+Molothrus ater,Brown-headed Cowbird,bnhcow,Troupials and Allies
+Euphagus carolinus,Rusty Blackbird,rusbla,Troupials and Allies
+Euphagus cyanocephalus,Brewer's Blackbird,brebla,Troupials and Allies
+Quiscalus quiscula,Common Grackle,comgra,Troupials and Allies
+Seiurus aurocapilla,Ovenbird,ovenbi1,New World Warblers
+Helmitheros vermivorum,Worm-eating Warbler,woewar1,New World Warblers
+Parkesia motacilla,Louisiana Waterthrush,louwat,New World Warblers
+Parkesia noveboracensis,Northern Waterthrush,norwat,New World Warblers
+Vermivora chrysoptera,Golden-winged Warbler,gowwar,New World Warblers
+Vermivora cyanoptera,Blue-winged Warbler,buwwar,New World Warblers
+Vermivora chrysoptera x cyanoptera,Golden-winged x Blue-winged Warbler (hybrid),x00669,New World Warblers
+Vermivora chrysoptera x cyanoptera (F1 hybrid),Brewster's Warbler (hybrid),brewar,New World Warblers
+Vermivora chrysoptera x cyanoptera (F2 backcross),Lawrence's Warbler (hybrid),lawwar,New World Warblers
+Mniotilta varia,Black-and-white Warbler,bawwar,New World Warblers
+Protonotaria citrea,Prothonotary Warbler,prowar,New World Warblers
+Limnothlypis swainsonii,Swainson's Warbler,swawar,New World Warblers
+Leiothlypis peregrina,Tennessee Warbler,tenwar,New World Warblers
+Leiothlypis celata,Orange-crowned Warbler,orcwar,New World Warblers
+Leiothlypis ruficapilla,Nashville Warbler,naswar,New World Warblers
+Oporornis agilis,Connecticut Warbler,conwar,New World Warblers
+Geothlypis philadelphia,Mourning Warbler,mouwar,New World Warblers
+Geothlypis formosa,Kentucky Warbler,kenwar,New World Warblers
+Geothlypis trichas,Common Yellowthroat,comyel,New World Warblers
+Geothlypis philadelphia x trichas,Mourning Warbler x Common Yellowthroat (hybrid),x00749,New World Warblers
+Setophaga citrina,Hooded Warbler,hoowar,New World Warblers
+Setophaga ruticilla,American Redstart,amered,New World Warblers
+Setophaga tigrina,Cape May Warbler,camwar,New World Warblers
+Setophaga cerulea,Cerulean Warbler,cerwar,New World Warblers
+Setophaga americana,Northern Parula,norpar,New World Warblers
+Setophaga magnolia,Magnolia Warbler,magwar,New World Warblers
+Setophaga castanea,Bay-breasted Warbler,babwar,New World Warblers
+Setophaga fusca,Blackburnian Warbler,bkbwar,New World Warblers
+Setophaga petechia,Yellow Warbler,yelwar,New World Warblers
+Setophaga pensylvanica,Chestnut-sided Warbler,chswar,New World Warblers
+Setophaga striata,Blackpoll Warbler,bkpwar,New World Warblers
+Setophaga caerulescens,Black-throated Blue Warbler,btbwar,New World Warblers
+Setophaga palmarum,Palm Warbler,palwar,New World Warblers
+Setophaga pinus,Pine Warbler,pinwar,New World Warblers
+Setophaga coronata,Yellow-rumped Warbler,yerwar,New World Warblers
+Setophaga dominica,Yellow-throated Warbler,yetwar,New World Warblers
+Setophaga discolor,Prairie Warbler,prawar,New World Warblers
+Setophaga virens,Black-throated Green Warbler,btnwar,New World Warblers
+Cardellina canadensis,Canada Warbler,canwar,New World Warblers
+Cardellina pusilla,Wilson's Warbler,wlswar,New World Warblers
+Piranga rubra,Summer Tanager,sumtan,Cardinals and Allies
+Piranga olivacea,Scarlet Tanager,scatan,Cardinals and Allies
+Piranga ludoviciana,Western Tanager,westan,Cardinals and Allies
+Cardinalis cardinalis,Northern Cardinal,norcar,Cardinals and Allies
+Pheucticus ludovicianus,Rose-breasted Grosbeak,robgro,Cardinals and Allies
+Pheucticus melanocephalus,Black-headed Grosbeak,bkhgro,Cardinals and Allies
+Passerina caerulea,Blue Grosbeak,blugrb1,Cardinals and Allies
+Passerina cyanea,Indigo Bunting,indbun,Cardinals and Allies
+Passerina ciris,Painted Bunting,paibun,Cardinals and Allies
+Spiza americana,Dickcissel,dickci,Cardinals and Allies

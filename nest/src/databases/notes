@@ -1,0 +1,3 @@
+1. first determine which data I want to use for the bird sightings
+2. get the data from the VT bird species and make into CSV. Go through the CSV and take out columns that I don't want and escape out quotes
+3. Do I want to iterate through an array and only take the items I want? Do I want to call it back as a csv and put it in excel and do it manually?
