@@ -67,11 +67,10 @@ const runSeeds = async () => {
     await dataSource.query(
       `COPY bird_species_vt("sciName", "comName", "speciesCode", "familyComName") FROM '${filePath}' DELIMITER ',' CSV HEADER;`,
     );
+    await app.close();
   } catch (err) {
     console.log('error from axios request', err);
   }
-
-  // await app.close();
 };
 
 runSeeds().catch((error) => {
