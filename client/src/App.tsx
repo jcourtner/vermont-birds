@@ -4,15 +4,15 @@ import TextField from '@mui/material/TextField';
 import Dropdown from './components/dropdown';
 import Button from '@mui/material/Button';
 import { useState } from 'react';
-
+import axios from 'axios';
 function App() {
   const [firstName, setFirstName] = useState('');
-  const [lastName, setLastName] = useState('');
-  const [email, setEmail] = useState('');
-  const [locationName, setLocationName] = useState('');
-  const [dropdown, setDropdown] = useState('');
-  const [numberOfBirds, setNumberOfBirds] = useState('');
-  const [fieldNotes, setFieldNotes] = useState('');
+  // const [lastName, setLastName] = useState('');
+  // const [email, setEmail] = useState('');
+  // const [locationName, setLocationName] = useState('');
+  // const [dropdown, setDropdown] = useState('');
+  // const [numberOfBirds, setNumberOfBirds] = useState('');
+  // const [fieldNotes, setFieldNotes] = useState('');
 
   const handleSubmit = async () => {
     alert('clicked');
@@ -21,7 +21,8 @@ function App() {
     // };
 
     try {
-      const res = await axios.get('api/user');
+      const res = await axios.get('http://localhost:3000/api/user');
+      console.log(res.data);
     } catch (err) {
       console.log(err);
     }
