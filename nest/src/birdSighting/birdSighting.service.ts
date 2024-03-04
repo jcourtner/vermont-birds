@@ -30,20 +30,20 @@ export class BirdSightingService {
         isActive: true,
       });
       user = await this.userRepository.save(user);
-
-      const species = await this.birdSpeciesRepository.findOneBy({
-        id: speciesId,
-      });
-
-      const obsRecord = new BirdSighting();
-      obsRecord.locName = body.locName;
-      obsRecord.howMany = parseInt(body.howMany);
-      obsRecord.fieldNotes = body.fieldNotes;
-      obsRecord.user = user;
-      obsRecord.species = species;
-
-      console.log('obs record', obsRecord);
-      return await this.birdSightingRepository.save(obsRecord);
     }
+
+    const species = await this.birdSpeciesRepository.findOneBy({
+      id: speciesId,
+    });
+
+    const obsRecord = new BirdSighting();
+    obsRecord.locName = body.locName;
+    obsRecord.howMany = parseInt(body.howMany);
+    obsRecord.fieldNotes = body.fieldNotes;
+    obsRecord.user = user;
+    obsRecord.species = species;
+
+    console.log('obs record', obsRecord);
+    return await this.birdSightingRepository.save(obsRecord);
   }
 }
