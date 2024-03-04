@@ -29,7 +29,7 @@ import { BirdSightingController } from './birdSighting/birdSighting.controller';
       password: '',
       database: process.env.DB_NAME,
       entities: [join(__dirname, '**', '*.entity.{ts,js}')],
-      synchronize: true, // use with caution; set to false for production
+      synchronize: true, // set to false for production
     }),
   ],
   providers: [

@@ -17,12 +17,3 @@ export class UserService {
     return this.userRepository.findOneBy({ email });
   }
 }
-
-// import { User } from './entities/user.entity';
-
-// // ...
-
-// async someMethod() {
-//   const userRepository = this.dataSource.getRepository(User);
-//   // Use userRepository for database operations
-// }

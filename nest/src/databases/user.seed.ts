@@ -39,8 +39,6 @@ const seedUsers = async (dataSource: DataSource): Promise<void> => {
   await userRepository.save(myUser);
 };
 
-// import { seedUsers } from './seeds/user.seed';
-// import { AppDataSource } from './data-source';
 import { NestFactory } from '@nestjs/core';
 import { AppModule } from '../app.module';
 
@@ -56,14 +54,3 @@ const runSeeds = async () => {
 runSeeds().catch((error) => {
   console.error('Seed error:', error);
 });
-
-// const runSeeds = async () => {
-//   const dataSource = new DataSource(); // replace with your actual data source initialization
-//   await dataSource.initialize();
-//   await seedUsers(dataSource);
-//   await dataSource.destroy();
-// };
-
-// runSeeds().catch((error) => {
-//   console.error('Seed error:', error);
-// });

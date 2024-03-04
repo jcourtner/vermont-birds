@@ -7,7 +7,6 @@ async function bootstrap() {
   app.setGlobalPrefix(globalPrefix);
   app.enableCors();
 
-  //route to src folder nestjs
   await app.listen(3000);
 }
 bootstrap();

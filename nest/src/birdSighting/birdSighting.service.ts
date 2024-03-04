@@ -43,7 +43,6 @@ export class BirdSightingService {
     obsRecord.user = user;
     obsRecord.species = species;
 
-    console.log('obs record', obsRecord);
     return await this.birdSightingRepository.save(obsRecord);
   }
 }
