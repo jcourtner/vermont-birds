@@ -7,3 +7,10 @@
 7. if i have time i should cache the frontend or backend data for bird species so I can look through it easier?
 8. validation and sanitization if i have more time
 9. create DTOs if I have time
+
+**seeding completed, now what?**
+
+1. create route to create new record in bird_sighting table
+2. create middleware to look up user first then add if not there, then pass userId to bird_sighting route
+3. create route to get all recent bird sightings/\
+4. get request to get all bird species on mount groupby

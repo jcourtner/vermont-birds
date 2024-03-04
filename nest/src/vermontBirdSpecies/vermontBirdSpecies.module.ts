@@ -1,14 +1,10 @@
 import { Module } from '@nestjs/common';
-// import { UserService } from './user.service';
-// import { UserController } from './user.controller';
-// import { AppService } from 'src/app.service';
 import { birdSpeciesProviders } from './vermontBirdSpecies.provider';
+import { BirdService } from './vermontBirdSpecies.service';
+import { BirdSpeciesController } from './vermontBirdSpecies.controller';
 
 @Module({
-  providers: [...birdSpeciesProviders],
+  providers: [...birdSpeciesProviders, BirdService],
+  controllers: [BirdSpeciesController],
 })
 export class UserModule {}
-
-// imports: [AppService],
-// controllers: [UserController],
-// exports: [UserService],

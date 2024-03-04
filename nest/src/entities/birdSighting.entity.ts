@@ -1,10 +1,4 @@
-import {
-  Entity,
-  Column,
-  PrimaryGeneratedColumn,
-  ManyToOne,
-  Timestamp,
-} from 'typeorm';
+import { Entity, Column, PrimaryGeneratedColumn, ManyToOne } from 'typeorm';
 import { User } from './user.entity';
 import { BirdSpeciesVT } from './vermontBirdSpecies.entity';
 
@@ -15,9 +9,6 @@ export class BirdSighting {
 
   @Column({ nullable: false })
   locName: string;
-
-  @Column({ type: 'timestamp', nullable: false })
-  obsDt: Timestamp;
 
   @Column({ nullable: false })
   howMany: number;

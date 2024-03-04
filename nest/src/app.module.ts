@@ -9,6 +9,12 @@ import { UserService } from './user/user.service';
 
 import { join } from 'path';
 import { userProviders } from './user/user.provider';
+import { birdSpeciesProviders } from './vermontBirdSpecies/vermontBirdSpecies.provider';
+import { BirdService } from './vermontBirdSpecies/vermontBirdSpecies.service';
+import { BirdSpeciesController } from './vermontBirdSpecies/vermontBirdSpecies.controller';
+import { BirdSightingService } from './birdSighting/birdSighting.service';
+import { birdSightingProviders } from './birdSighting/birdSighting.provider';
+import { BirdSightingController } from './birdSighting/birdSighting.controller';
 
 @Module({
   imports: [
@@ -26,7 +32,20 @@ import { userProviders } from './user/user.provider';
       synchronize: true, // use with caution; set to false for production
     }),
   ],
-  providers: [AppService, UserService, ...userProviders],
-  controllers: [AppController, UserController],
+  providers: [
+    AppService,
+    UserService,
+    ...userProviders,
+    ...birdSpeciesProviders,
+    BirdService,
+    BirdSightingService,
+    ...birdSightingProviders,
+  ],
+  controllers: [
+    AppController,
+    UserController,
+    BirdSpeciesController,
+    BirdSightingController,
+  ],
 })
 export class AppModule {}

@@ -6,10 +6,10 @@ export class User {
   @PrimaryGeneratedColumn('uuid')
   id: number;
 
-  @Column({ unique: true, type: 'varchar', length: 150, nullable: false })
+  @Column({ type: 'varchar', length: 150, nullable: false })
   firstName: string;
 
-  @Column({ unique: true, type: 'varchar', length: 150, nullable: false })
+  @Column({ type: 'varchar', length: 150, nullable: false })
   lastName: string;
 
   @Column({ unique: true, type: 'varchar', length: 150, nullable: false })
